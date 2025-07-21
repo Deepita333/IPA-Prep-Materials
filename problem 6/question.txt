@@ -1,0 +1,15 @@
+/* Find average of a number array between two limit numbers (except the two numbers)
+ * Input
+ * ---------------
+ *  5
+    1 
+    2
+    3
+    4
+    5
+ *  1
+ *  4
+ * 
+ * Output
+ * ---------------
+ * 2
