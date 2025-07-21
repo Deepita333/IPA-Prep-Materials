@@ -1,0 +1,5 @@
+/* Remove duplicate characters in a string
+ * 
+ * Input : Arijit Ghosh
+ * Output : Arijt Ghos
+ */
