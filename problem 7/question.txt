@@ -1,0 +1,5 @@
+/* Remove Vowel From A String 
+
+ * Input : Arijit Ghosh
+ * Output : rjt Ghsh
+ */
